@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @carldsmith
 
-<img src="carl.jpg" alt="Portrait" width="200"/>
+<img src="carlpink.jpg" alt="Portrait" width="200"/>
 
 View my [LinkedIn Profile](www.linkedin.com/in/carl-smith-0896b2a3)
 
