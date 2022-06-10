@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @carldsmith
 
-<img src="carlpink.jpg" alt="Portrait" width="200"/>
-
 View my [LinkedIn Profile](www.linkedin.com/in/carl-smith-0896b2a3)
 
 - 👀 I’m interested in ... data engineering, pharmacy/healthcare domain
