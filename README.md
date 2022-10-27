@@ -2,7 +2,7 @@
 
 View my [LinkedIn Profile](www.linkedin.com/in/carl-smith-0896b2a3)
 
-- 👀 I’m interested in ... data engineering, pharmacy/healthcare domain
+- 👀 I’m interested in ... data engineering, IT in the pharmacy/healthcare domain
 - 🌱 I’m currently learning python, SQL, ETL
 - 💞️ I’m looking to collaborate on a pharmacy related scraping or database project
 - 📫 How to reach me carlsmithwriter@gmail.com 
