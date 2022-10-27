@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @carldsmith
 
-View my [LinkedIn Profile](www.linkedin.com/in/carl-smith-0896b2a3)
+View my [LinkedIn Profile](http://www.linkedin.com/in/carl-smith-0896b2a3)
 
 - 👀 I’m interested in ... data engineering, IT in the pharmacy/healthcare domain
 - 🌱 I’m currently learning python, SQL, ETL
